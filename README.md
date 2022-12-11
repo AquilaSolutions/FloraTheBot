@@ -1,2 +1,3 @@
 # FloraTheBot
-Bot for connection between farmers and consumers.
+  This Bot for connect farmers directly with consumers, retailers and food processing industries
+
